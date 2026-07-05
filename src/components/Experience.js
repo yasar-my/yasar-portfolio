@@ -21,7 +21,7 @@ function Experience() {
               <div className="timeline-content">
 
                 <span className="timeline-date">
-                  Mar 2026 - Present
+                  Mar 2026 - June 2026
                 </span>
 
                 <h3>
